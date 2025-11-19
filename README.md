@@ -45,3 +45,22 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
    </a> 
 </p>
+
+<p>
+
+---
+
+### Badges
+
+**My GitHub Stats**
+
+<a href="https://github.com/Barua02" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barua02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" 
+         alt="Top Languages" />
+</a>
+
+**Top Repositories**
+
+<div width="100%" align="center"></div><br /><br />
+    
+</p>
