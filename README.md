@@ -4,7 +4,7 @@
 
 ---
 
-* 🔭 I’m currently working on a **Multimodal Project**
+* 🔭 I’m currently working on a **Computer Vision**
 * 🌱 I’m currently learning **Deep Learning**
 
 ---
