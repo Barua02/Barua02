@@ -1,7 +1,4 @@
 
-
----
-
 <div align="center">
   <img src="/Intro.gif" alt="Intro Header" />
 </div>
