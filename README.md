@@ -44,7 +44,10 @@
 
 ---
 
-### Badges
+### Views Count
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-istique&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-istique" /> </p>
+
 
 **My GitHub Stats**
 
