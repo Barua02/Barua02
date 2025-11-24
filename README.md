@@ -1,4 +1,8 @@
-# Hi 👋, I'm Arnob Barua
+<div align="center">
+  <img src="/Intro.gif" alt="Intro Header" />
+</div>
+
+---
 
 ### A passionate AI and ML Enthusiast
 
