@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://media.tenor.com/abcdef12345AAAAAAA.gif" alt="Pixelart GIF" width="100%" />
+</div>
+
+---
+
+<div align="center">
   <img src="/Intro.gif" alt="Intro Header" />
 </div>
 
