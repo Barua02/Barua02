@@ -9,7 +9,7 @@
 
 ---
 
-* 🔭 I’m currently working on a **Computer Vision**
+* 🔭 I’m currently working on a **AI related skill**
 * 🌱 I’m currently learning **Deep Learning**
 
 ---
